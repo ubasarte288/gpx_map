@@ -27,6 +27,7 @@
 <body>
 
 	<div id="map" class="leaflet-map"></div>
+	<div id="elevation-div" class="leaflet-control elevation"><p class="chart-placeholder">move mouse over a track...</p></div>
 
 	<script>
 		let opts = {
@@ -57,11 +58,16 @@
 			},
 			elevation: {
 				theme: "lime-theme",
-				detached: false,
-				collapsed: false,
-				autohide: false,
-				width: 500,
-				edgeScale: false,
+				detached: true,
+				elevationDiv: '#elevation-div',
+				followMarker: true,
+				zFollow: 15,
+				legend: false,
+				
+				// collapsed: false,
+				// autohide: false,
+				// width: 500,
+				// edgeScale: false,
 			},
 		};
 
