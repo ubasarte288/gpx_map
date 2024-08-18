@@ -94,7 +94,7 @@ L.GeoJSON.include(L.Mixin.Selectable);
 L.GpxGroup = L.Class.extend({
   options: {
     highlight: {
-      color: '#ff0',
+      color: 'fc0352', // '#ff0', // FIXME (PERE changed)
       opacity: 1,
     },
     points: [],
