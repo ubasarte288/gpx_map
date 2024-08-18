@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - https://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wikiloc - Fontalba - Puigmal - Santuari de Núria - Fontalba</name>
+    <link href="https://www.wikiloc.com/hiking-trails/fontalba-puigmal-nuria-fontalba-34519598">
+      <text>Fontalba - Puigmal - Santuari de Núria - Fontalba on Wikiloc</text>
+    </link>
+    <time>2019-03-24T15:18:10Z</time>
+  </metadata>
+  <trk>
+    <name>Fontalba - Puigmal - Santuari de Núria - Fontalba</name>
+    <cmt></cmt>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="42.366807" lon="2.151981">
+        <ele>2067.951</ele>
+        <time>2019-03-24T07:57:49Z</time>
+      </trkpt>
+      <trkpt lat="42.365512" lon="2.148498">
+        <ele>2090.501</ele>
+        <time>2019-03-24T08:07:34Z</time>
+      </trkpt>
+      <trkpt lat="42.365550" lon="2.147643">
+        <ele>2099.111</ele>
+        <time>2019-03-24T08:08:31Z</time>
+      </trkpt>
+      <trkpt lat="42.365959" lon="2.145710">
+        <ele>2113.108</ele>
+        <time>2019-03-24T08:11:00Z</time>
+      </trkpt>
+      <trkpt lat="42.365872" lon="2.143577">
+        <ele>2147.778</ele>
+        <time>2019-03-24T08:15:08Z</time>
+      </trkpt>
+      <trkpt lat="42.365603" lon="2.142738">
+        <ele>2166.489</ele>
+        <time>2019-03-24T08:16:35Z</time>
+      </trkpt>
+      <trkpt lat="42.364997" lon="2.141932">
+        <ele>2172.740</ele>
+        <time>2019-03-24T08:18:06Z</time>
+      </trkpt>
+      <trkpt lat="42.364646" lon="2.141533">
+        <ele>2174.136</ele>
+        <time>2019-03-24T08:18:47Z</time>
+      </trkpt>
+      <trkpt lat="42.364329" lon="2.141686">
+        <ele>2164.564</ele>
+        <time>2019-03-24T08:19:25Z</time>
+      </trkpt>
+      <trkpt lat="42.364620" lon="2.141502">
+        <ele>2173.210</ele>
+        <time>2019-03-24T08:21:39Z</time>
+      </trkpt>
+      <trkpt lat="42.365162" lon="2.141573">
+        <ele>2183.254</ele>
+        <time>2019-03-24T08:22:57Z</time>
+      </trkpt>
+      <trkpt lat="42.365607" lon="2.141104">
+        <ele>2197.773</ele>
+        <time>2019-03-24T08:24:23Z</time>
+      </trkpt>
+      <trkpt lat="42.365882" lon="2.140208">
+        <ele>2224.637</ele>
+        <time>2019-03-24T08:27:52Z</time>
+      </trkpt>
+      <trkpt lat="42.365793" lon="2.139864">
+        <ele>2237.149</ele>
+        <time>2019-03-24T08:29:08Z</time>
+      </trkpt>
+      <trkpt lat="42.365371" lon="2.139300">
+        <ele>2257.313</ele>
+        <time>2019-03-24T08:31:06Z</time>
+      </trkpt>
+      <trkpt lat="42.365413" lon="2.138878">
+        <ele>2266.408</ele>
+        <time>2019-03-24T08:32:42Z</time>
+      </trkpt>
+      <trkpt lat="42.365825" lon="2.138431">
+        <ele>2279.416</ele>
+        <time>2019-03-24T08:34:40Z</time>
+      </trkpt>
+      <trkpt lat="42.365860" lon="2.137640">
+        <ele>2299.117</ele>
+        <time>2019-03-24T08:36:48Z</time>
+      </trkpt>
+      <trkpt lat="42.366381" lon="2.137205">
+        <ele>2318.818</ele>
+        <time>2019-03-24T08:39:04Z</time>
+      </trkpt>
+      <trkpt lat="42.366441" lon="2.136641">
+        <ele>2330.884</ele>
+        <time>2019-03-24T08:40:30Z</time>
+      </trkpt>
+      <trkpt lat="42.366749" lon="2.136227">
+        <ele>2346.292</ele>
+        <time>2019-03-24T08:42:20Z</time>
+      </trkpt>
+      <trkpt lat="42.367716" lon="2.135710">
+        <ele>2380.878</ele>
+        <time>2019-03-24T08:48:01Z</time>
+      </trkpt>
+      <trkpt lat="42.367834" lon="2.134880">
+        <ele>2404.882</ele>
+        <time>2019-03-24T08:50:46Z</time>
+      </trkpt>
+      <trkpt lat="42.368170" lon="2.134550">
+        <ele>2416.861</ele>
+        <time>2019-03-24T08:52:10Z</time>
+      </trkpt>
+      <trkpt lat="42.368364" lon="2.134555">
+        <ele>2418.324</ele>
+        <time>2019-03-24T08:52:45Z</time>
+      </trkpt>
+      <trkpt lat="42.368831" lon="2.133367">
+        <ele>2441.404</ele>
+        <time>2019-03-24T09:19:45Z</time>
+      </trkpt>
+      <trkpt lat="42.368870" lon="2.132753">
+        <ele>2449.514</ele>
+        <time>2019-03-24T09:20:56Z</time>
+      </trkpt>
+      <trkpt lat="42.368641" lon="2.132554">
+        <ele>2449.508</ele>
+        <time>2019-03-24T09:22:07Z</time>
+      </trkpt>
+      <trkpt lat="42.369059" lon="2.132386">
+        <ele>2453.955</ele>
+        <time>2019-03-24T09:24:39Z</time>
+      </trkpt>
+      <trkpt lat="42.369508" lon="2.131843">
+        <ele>2441.866</ele>
+        <time>2019-03-24T09:25:54Z</time>
+      </trkpt>
+      <trkpt lat="42.369866" lon="2.130682">
+        <ele>2440.417</ele>
+        <time>2019-03-24T09:27:30Z</time>
+      </trkpt>
+      <trkpt lat="42.370259" lon="2.129909">
+        <ele>2441.893</ele>
+        <time>2019-03-24T09:28:46Z</time>
+      </trkpt>
+      <trkpt lat="42.370487" lon="2.129771">
+        <ele>2448.141</ele>
+        <time>2019-03-24T09:29:28Z</time>
+      </trkpt>
+      <trkpt lat="42.371279" lon="2.127969">
+        <ele>2470.777</ele>
+        <time>2019-03-24T09:33:10Z</time>
+      </trkpt>
+      <trkpt lat="42.371630" lon="2.127021">
+        <ele>2487.081</ele>
+        <time>2019-03-24T09:35:09Z</time>
+      </trkpt>
+      <trkpt lat="42.371665" lon="2.124441">
+        <ele>2539.950</ele>
+        <time>2019-03-24T09:41:46Z</time>
+      </trkpt>
+      <trkpt lat="42.372044" lon="2.124110">
+        <ele>2551.914</ele>
+        <time>2019-03-24T09:43:15Z</time>
+      </trkpt>
+      <trkpt lat="42.372313" lon="2.123045">
+        <ele>2577.454</ele>
+        <time>2019-03-24T09:46:13Z</time>
+      </trkpt>
+      <trkpt lat="42.372953" lon="2.122332">
+        <ele>2607.209</ele>
+        <time>2019-03-24T09:50:12Z</time>
+      </trkpt>
+      <trkpt lat="42.374020" lon="2.121578">
+        <ele>2644.208</ele>
+        <time>2019-03-24T09:54:45Z</time>
+      </trkpt>
+      <trkpt lat="42.374488" lon="2.121650">
+        <ele>2655.714</ele>
+        <time>2019-03-24T09:59:17Z</time>
+      </trkpt>
+      <trkpt lat="42.375683" lon="2.121466">
+        <ele>2664.415</ele>
+        <time>2019-03-24T10:01:49Z</time>
+      </trkpt>
+      <trkpt lat="42.377682" lon="2.121838">
+        <ele>2702.466</ele>
+        <time>2019-03-24T10:07:45Z</time>
+      </trkpt>
+      <trkpt lat="42.377917" lon="2.121677">
+        <ele>2716.812</ele>
+        <time>2019-03-24T10:09:12Z</time>
+      </trkpt>
+      <trkpt lat="42.378510" lon="2.121602">
+        <ele>2750.450</ele>
+        <time>2019-03-24T10:13:20Z</time>
+      </trkpt>
+      <trkpt lat="42.378788" lon="2.121768">
+        <ele>2768.766</ele>
+        <time>2019-03-24T10:15:57Z</time>
+      </trkpt>
+      <trkpt lat="42.378978" lon="2.121563">
+        <ele>2782.650</ele>
+        <time>2019-03-24T10:17:57Z</time>
+      </trkpt>
+      <trkpt lat="42.379178" lon="2.121673">
+        <ele>2796.199</ele>
+        <time>2019-03-24T10:20:03Z</time>
+      </trkpt>
+      <trkpt lat="42.379738" lon="2.121447">
+        <ele>2819.294</ele>
+        <time>2019-03-24T10:23:37Z</time>
+      </trkpt>
+      <trkpt lat="42.381748" lon="2.119615">
+        <ele>2854.757</ele>
+        <time>2019-03-24T10:32:38Z</time>
+      </trkpt>
+      <trkpt lat="42.381950" lon="2.119063">
+        <ele>2860.022</ele>
+        <time>2019-03-24T10:34:24Z</time>
+      </trkpt>
+      <trkpt lat="42.382834" lon="2.118106">
+        <ele>2883.108</ele>
+        <time>2019-03-24T10:38:16Z</time>
+      </trkpt>
+      <trkpt lat="42.383285" lon="2.116758">
+        <ele>2904.262</ele>
+        <time>2019-03-24T10:46:54Z</time>
+      </trkpt>
+      <trkpt lat="42.383660" lon="2.116878">
+        <ele>2898.963</ele>
+        <time>2019-03-24T10:47:46Z</time>
+      </trkpt>
+      <trkpt lat="42.383850" lon="2.116782">
+        <ele>2900.954</ele>
+        <time>2019-03-24T10:50:34Z</time>
+      </trkpt>
+      <trkpt lat="42.383599" lon="2.116885">
+        <ele>2899.960</ele>
+        <time>2019-03-24T10:53:26Z</time>
+      </trkpt>
+      <trkpt lat="42.383298" lon="2.116773">
+        <ele>2904.788</ele>
+        <time>2019-03-24T10:54:19Z</time>
+      </trkpt>
+      <trkpt lat="42.383294" lon="2.116945">
+        <ele>2905.784</ele>
+        <time>2019-03-24T10:56:16Z</time>
+      </trkpt>
+      <trkpt lat="42.383579" lon="2.117554">
+        <ele>2893.748</ele>
+        <time>2019-03-24T10:57:42Z</time>
+      </trkpt>
+      <trkpt lat="42.383748" lon="2.117613">
+        <ele>2888.427</ele>
+        <time>2019-03-24T10:59:12Z</time>
+      </trkpt>
+      <trkpt lat="42.383862" lon="2.118374">
+        <ele>2884.543</ele>
+        <time>2019-03-24T10:59:58Z</time>
+      </trkpt>
+      <trkpt lat="42.384325" lon="2.119627">
+        <ele>2854.264</ele>
+        <time>2019-03-24T11:04:16Z</time>
+      </trkpt>
+      <trkpt lat="42.384652" lon="2.119732">
+        <ele>2840.810</ele>
+        <time>2019-03-24T11:06:09Z</time>
+      </trkpt>
+      <trkpt lat="42.385286" lon="2.120309">
+        <ele>2812.908</ele>
+        <time>2019-03-24T11:09:08Z</time>
+      </trkpt>
+      <trkpt lat="42.385669" lon="2.120055">
+        <ele>2797.567</ele>
+        <time>2019-03-24T11:10:02Z</time>
+      </trkpt>
+      <trkpt lat="42.385853" lon="2.120112">
+        <ele>2790.878</ele>
+        <time>2019-03-24T11:10:26Z</time>
+      </trkpt>
+      <trkpt lat="42.386126" lon="2.120769">
+        <ele>2768.229</ele>
+        <time>2019-03-24T11:13:42Z</time>
+      </trkpt>
+      <trkpt lat="42.386324" lon="2.122085">
+        <ele>2732.695</ele>
+        <time>2019-03-24T11:15:18Z</time>
+      </trkpt>
+      <trkpt lat="42.386873" lon="2.122765">
+        <ele>2692.373</ele>
+        <time>2019-03-24T11:19:40Z</time>
+      </trkpt>
+      <trkpt lat="42.387066" lon="2.123370">
+        <ele>2677.419</ele>
+        <time>2019-03-24T11:21:29Z</time>
+      </trkpt>
+      <trkpt lat="42.387952" lon="2.124041">
+        <ele>2640.883</ele>
+        <time>2019-03-24T11:24:48Z</time>
+      </trkpt>
+      <trkpt lat="42.389064" lon="2.125355">
+        <ele>2575.512</ele>
+        <time>2019-03-24T11:26:42Z</time>
+      </trkpt>
+      <trkpt lat="42.389279" lon="2.125392">
+        <ele>2568.766</ele>
+        <time>2019-03-24T11:26:48Z</time>
+      </trkpt>
+      <trkpt lat="42.389750" lon="2.124926">
+        <ele>2560.129</ele>
+        <time>2019-03-24T11:32:01Z</time>
+      </trkpt>
+      <trkpt lat="42.390470" lon="2.124881">
+        <ele>2551.421</ele>
+        <time>2019-03-24T11:32:47Z</time>
+      </trkpt>
+      <trkpt lat="42.390351" lon="2.124860">
+        <ele>2550.008</ele>
+        <time>2019-03-24T11:33:08Z</time>
+      </trkpt>
+      <trkpt lat="42.390501" lon="2.124769">
+        <ele>2541.339</ele>
+        <time>2019-03-24T11:33:16Z</time>
+      </trkpt>
+      <trkpt lat="42.390649" lon="2.124848">
+        <ele>2538.080</ele>
+        <time>2019-03-24T11:33:20Z</time>
+      </trkpt>
+      <trkpt lat="42.390916" lon="2.125368">
+        <ele>2528.831</ele>
+        <time>2019-03-24T11:35:06Z</time>
+      </trkpt>
+      <trkpt lat="42.390896" lon="2.125620">
+        <ele>2526.477</ele>
+        <time>2019-03-24T11:35:20Z</time>
+      </trkpt>
+      <trkpt lat="42.391713" lon="2.126623">
+        <ele>2508.765</ele>
+        <time>2019-03-24T11:38:44Z</time>
+      </trkpt>
+      <trkpt lat="42.392748" lon="2.128353">
+        <ele>2470.721</ele>
+        <time>2019-03-24T11:42:11Z</time>
+      </trkpt>
+      <trkpt lat="42.392722" lon="2.129951">
+        <ele>2448.185</ele>
+        <time>2019-03-24T11:44:23Z</time>
+      </trkpt>
+      <trkpt lat="42.392829" lon="2.130225">
+        <ele>2442.384</ele>
+        <time>2019-03-24T11:44:49Z</time>
+      </trkpt>
+      <trkpt lat="42.393158" lon="2.130419">
+        <ele>2436.698</ele>
+        <time>2019-03-24T11:45:12Z</time>
+      </trkpt>
+      <trkpt lat="42.393609" lon="2.130423">
+        <ele>2428.415</ele>
+        <time>2019-03-24T11:45:36Z</time>
+      </trkpt>
+      <trkpt lat="42.393588" lon="2.130551">
+        <ele>2426.026</ele>
+        <time>2019-03-24T11:46:13Z</time>
+      </trkpt>
+      <trkpt lat="42.394452" lon="2.131531">
+        <ele>2402.908</ele>
+        <time>2019-03-24T11:48:31Z</time>
+      </trkpt>
+      <trkpt lat="42.395109" lon="2.131627">
+        <ele>2385.642</ele>
+        <time>2019-03-24T11:49:40Z</time>
+      </trkpt>
+      <trkpt lat="42.395335" lon="2.132156">
+        <ele>2369.343</ele>
+        <time>2019-03-24T11:51:00Z</time>
+      </trkpt>
+      <trkpt lat="42.395238" lon="2.132565">
+        <ele>2362.184</ele>
+        <time>2019-03-24T11:51:51Z</time>
+      </trkpt>
+      <trkpt lat="42.396077" lon="2.132933">
+        <ele>2358.720</ele>
+        <time>2019-03-24T11:53:14Z</time>
+      </trkpt>
+      <trkpt lat="42.396325" lon="2.133304">
+        <ele>2345.778</ele>
+        <time>2019-03-24T11:54:38Z</time>
+      </trkpt>
+      <trkpt lat="42.396490" lon="2.133327">
+        <ele>2340.974</ele>
+        <time>2019-03-24T11:55:07Z</time>
+      </trkpt>
+      <trkpt lat="42.396619" lon="2.133165">
+        <ele>2339.088</ele>
+        <time>2019-03-24T11:55:16Z</time>
+      </trkpt>
+      <trkpt lat="42.397257" lon="2.134171">
+        <ele>2312.587</ele>
+        <time>2019-03-24T11:56:58Z</time>
+      </trkpt>
+      <trkpt lat="42.397111" lon="2.134558">
+        <ele>2304.423</ele>
+        <time>2019-03-24T11:58:51Z</time>
+      </trkpt>
+      <trkpt lat="42.397421" lon="2.134830">
+        <ele>2292.483</ele>
+        <time>2019-03-24T12:01:08Z</time>
+      </trkpt>
+      <trkpt lat="42.397315" lon="2.135740">
+        <ele>2276.511</ele>
+        <time>2019-03-24T12:03:17Z</time>
+      </trkpt>
+      <trkpt lat="42.397413" lon="2.135943">
+        <ele>2270.208</ele>
+        <time>2019-03-24T12:03:44Z</time>
+      </trkpt>
+      <trkpt lat="42.397678" lon="2.135957">
+        <ele>2277.915</ele>
+        <time>2019-03-24T12:04:28Z</time>
+      </trkpt>
+      <trkpt lat="42.397560" lon="2.136407">
+        <ele>2265.436</ele>
+        <time>2019-03-24T12:08:21Z</time>
+      </trkpt>
+      <trkpt lat="42.397868" lon="2.136863">
+        <ele>2257.717</ele>
+        <time>2019-03-24T12:09:30Z</time>
+      </trkpt>
+      <trkpt lat="42.397796" lon="2.138246">
+        <ele>2224.683</ele>
+        <time>2019-03-24T12:12:41Z</time>
+      </trkpt>
+      <trkpt lat="42.397970" lon="2.138451">
+        <ele>2220.761</ele>
+        <time>2019-03-24T12:13:02Z</time>
+      </trkpt>
+      <trkpt lat="42.398568" lon="2.140749">
+        <ele>2203.497</ele>
+        <time>2019-03-24T12:16:31Z</time>
+      </trkpt>
+      <trkpt lat="42.398568" lon="2.142023">
+        <ele>2204.981</ele>
+        <time>2019-03-24T12:17:39Z</time>
+      </trkpt>
+      <trkpt lat="42.398011" lon="2.143294">
+        <ele>2194.360</ele>
+        <time>2019-03-24T12:19:42Z</time>
+      </trkpt>
+      <trkpt lat="42.398010" lon="2.143640">
+        <ele>2187.134</ele>
+        <time>2019-03-24T12:20:19Z</time>
+      </trkpt>
+      <trkpt lat="42.397900" lon="2.143700">
+        <ele>2182.855</ele>
+        <time>2019-03-24T12:20:33Z</time>
+      </trkpt>
+      <trkpt lat="42.397991" lon="2.143945">
+        <ele>2178.410</ele>
+        <time>2019-03-24T12:21:24Z</time>
+      </trkpt>
+      <trkpt lat="42.397836" lon="2.144204">
+        <ele>2165.508</ele>
+        <time>2019-03-24T12:22:18Z</time>
+      </trkpt>
+      <trkpt lat="42.397483" lon="2.144376">
+        <ele>2161.636</ele>
+        <time>2019-03-24T12:23:50Z</time>
+      </trkpt>
+      <trkpt lat="42.397592" lon="2.144429">
+        <ele>2158.317</ele>
+        <time>2019-03-24T12:46:42Z</time>
+      </trkpt>
+      <trkpt lat="42.397631" lon="2.144971">
+        <ele>2138.168</ele>
+        <time>2019-03-24T12:48:11Z</time>
+      </trkpt>
+      <trkpt lat="42.397276" lon="2.146089">
+        <ele>2102.054</ele>
+        <time>2019-03-24T12:50:49Z</time>
+      </trkpt>
+      <trkpt lat="42.397691" lon="2.147315">
+        <ele>2076.512</ele>
+        <time>2019-03-24T12:53:08Z</time>
+      </trkpt>
+      <trkpt lat="42.397647" lon="2.147633">
+        <ele>2069.388</ele>
+        <time>2019-03-24T12:54:24Z</time>
+      </trkpt>
+      <trkpt lat="42.397821" lon="2.147818">
+        <ele>2060.262</ele>
+        <time>2019-03-24T12:55:59Z</time>
+      </trkpt>
+      <trkpt lat="42.397942" lon="2.148914">
+        <ele>2035.711</ele>
+        <time>2019-03-24T12:59:16Z</time>
+      </trkpt>
+      <trkpt lat="42.397456" lon="2.150006">
+        <ele>2029.497</ele>
+        <time>2019-03-24T13:02:00Z</time>
+      </trkpt>
+      <trkpt lat="42.397669" lon="2.150531">
+        <ele>2007.323</ele>
+        <time>2019-03-24T13:05:01Z</time>
+      </trkpt>
+      <trkpt lat="42.397466" lon="2.151193">
+        <ele>1994.825</ele>
+        <time>2019-03-24T13:06:40Z</time>
+      </trkpt>
+      <trkpt lat="42.397477" lon="2.152083">
+        <ele>1979.908</ele>
+        <time>2019-03-24T13:07:30Z</time>
+      </trkpt>
+      <trkpt lat="42.396993" lon="2.152256">
+        <ele>1966.042</ele>
+        <time>2019-03-24T13:08:32Z</time>
+      </trkpt>
+      <trkpt lat="42.397159" lon="2.152568">
+        <ele>1966.063</ele>
+        <time>2019-03-24T13:09:03Z</time>
+      </trkpt>
+      <trkpt lat="42.396849" lon="2.152611">
+        <ele>1963.144</ele>
+        <time>2019-03-24T13:09:35Z</time>
+      </trkpt>
+      <trkpt lat="42.396513" lon="2.152991">
+        <ele>1961.720</ele>
+        <time>2019-03-24T13:10:16Z</time>
+      </trkpt>
+      <trkpt lat="42.396608" lon="2.153308">
+        <ele>1958.898</ele>
+        <time>2019-03-24T13:10:43Z</time>
+      </trkpt>
+      <trkpt lat="42.397486" lon="2.154070">
+        <ele>1965.024</ele>
+        <time>2019-03-24T13:14:38Z</time>
+      </trkpt>
+      <trkpt lat="42.397087" lon="2.153786">
+        <ele>1965.578</ele>
+        <time>2019-03-24T13:15:13Z</time>
+      </trkpt>
+      <trkpt lat="42.397229" lon="2.154086">
+        <ele>1961.757</ele>
+        <time>2019-03-24T13:16:06Z</time>
+      </trkpt>
+      <trkpt lat="42.396835" lon="2.154267">
+        <ele>1966.922</ele>
+        <time>2019-03-24T13:42:34Z</time>
+      </trkpt>
+      <trkpt lat="42.396202" lon="2.153457">
+        <ele>1954.062</ele>
+        <time>2019-03-24T13:44:19Z</time>
+      </trkpt>
+      <trkpt lat="42.395735" lon="2.153408">
+        <ele>1951.108</ele>
+        <time>2019-03-24T13:45:07Z</time>
+      </trkpt>
+      <trkpt lat="42.395355" lon="2.152665">
+        <ele>1950.108</ele>
+        <time>2019-03-24T13:46:09Z</time>
+      </trkpt>
+      <trkpt lat="42.395370" lon="2.152309">
+        <ele>1955.445</ele>
+        <time>2019-03-24T13:47:28Z</time>
+      </trkpt>
+      <trkpt lat="42.395198" lon="2.152415">
+        <ele>1955.466</ele>
+        <time>2019-03-24T13:49:45Z</time>
+      </trkpt>
+      <trkpt lat="42.394556" lon="2.152173">
+        <ele>1959.337</ele>
+        <time>2019-03-24T13:50:49Z</time>
+      </trkpt>
+      <trkpt lat="42.394205" lon="2.152193">
+        <ele>1960.743</ele>
+        <time>2019-03-24T13:51:19Z</time>
+      </trkpt>
+      <trkpt lat="42.393673" lon="2.152464">
+        <ele>1965.581</ele>
+        <time>2019-03-24T13:52:17Z</time>
+      </trkpt>
+      <trkpt lat="42.392589" lon="2.152533">
+        <ele>1970.887</ele>
+        <time>2019-03-24T13:54:01Z</time>
+      </trkpt>
+      <trkpt lat="42.392445" lon="2.153007">
+        <ele>1978.561</ele>
+        <time>2019-03-24T13:54:47Z</time>
+      </trkpt>
+      <trkpt lat="42.391911" lon="2.153154">
+        <ele>1982.850</ele>
+        <time>2019-03-24T13:56:15Z</time>
+      </trkpt>
+      <trkpt lat="42.391668" lon="2.152944">
+        <ele>1991.519</ele>
+        <time>2019-03-24T13:58:58Z</time>
+      </trkpt>
+      <trkpt lat="42.391905" lon="2.152427">
+        <ele>1997.709</ele>
+        <time>2019-03-24T13:59:54Z</time>
+      </trkpt>
+      <trkpt lat="42.391526" lon="2.152469">
+        <ele>2007.319</ele>
+        <time>2019-03-24T14:00:57Z</time>
+      </trkpt>
+      <trkpt lat="42.391542" lon="2.152266">
+        <ele>2014.108</ele>
+        <time>2019-03-24T14:01:34Z</time>
+      </trkpt>
+      <trkpt lat="42.391156" lon="2.152342">
+        <ele>2023.264</ele>
+        <time>2019-03-24T14:02:35Z</time>
+      </trkpt>
+      <trkpt lat="42.390409" lon="2.152202">
+        <ele>2035.285</ele>
+        <time>2019-03-24T14:04:08Z</time>
+      </trkpt>
+      <trkpt lat="42.389855" lon="2.152396">
+        <ele>2050.146</ele>
+        <time>2019-03-24T14:06:08Z</time>
+      </trkpt>
+      <trkpt lat="42.390169" lon="2.151699">
+        <ele>2058.362</ele>
+        <time>2019-03-24T14:07:28Z</time>
+      </trkpt>
+      <trkpt lat="42.388594" lon="2.152352">
+        <ele>2087.650</ele>
+        <time>2019-03-24T14:11:01Z</time>
+      </trkpt>
+      <trkpt lat="42.387617" lon="2.151830">
+        <ele>2101.126</ele>
+        <time>2019-03-24T14:12:57Z</time>
+      </trkpt>
+      <trkpt lat="42.387128" lon="2.151994">
+        <ele>2106.860</ele>
+        <time>2019-03-24T14:13:53Z</time>
+      </trkpt>
+      <trkpt lat="42.386813" lon="2.152327">
+        <ele>2122.299</ele>
+        <time>2019-03-24T14:15:18Z</time>
+      </trkpt>
+      <trkpt lat="42.386393" lon="2.152418">
+        <ele>2130.948</ele>
+        <time>2019-03-24T14:16:02Z</time>
+      </trkpt>
+      <trkpt lat="42.386316" lon="2.152710">
+        <ele>2125.661</ele>
+        <time>2019-03-24T14:19:02Z</time>
+      </trkpt>
+      <trkpt lat="42.385691" lon="2.151610">
+        <ele>2113.117</ele>
+        <time>2019-03-24T14:21:44Z</time>
+      </trkpt>
+      <trkpt lat="42.385009" lon="2.151337">
+        <ele>2107.308</ele>
+        <time>2019-03-24T14:22:41Z</time>
+      </trkpt>
+      <trkpt lat="42.384807" lon="2.151811">
+        <ele>2103.017</ele>
+        <time>2019-03-24T14:23:12Z</time>
+      </trkpt>
+      <trkpt lat="42.383248" lon="2.153073">
+        <ele>2113.648</ele>
+        <time>2019-03-24T14:26:52Z</time>
+      </trkpt>
+      <trkpt lat="42.381638" lon="2.152403">
+        <ele>2115.059</ele>
+        <time>2019-03-24T14:29:11Z</time>
+      </trkpt>
+      <trkpt lat="42.380736" lon="2.151503">
+        <ele>2116.495</ele>
+        <time>2019-03-24T14:31:01Z</time>
+      </trkpt>
+      <trkpt lat="42.380119" lon="2.151561">
+        <ele>2125.613</ele>
+        <time>2019-03-24T14:32:10Z</time>
+      </trkpt>
+      <trkpt lat="42.379807" lon="2.151901">
+        <ele>2131.819</ele>
+        <time>2019-03-24T14:32:59Z</time>
+      </trkpt>
+      <trkpt lat="42.379340" lon="2.153079">
+        <ele>2139.093</ele>
+        <time>2019-03-24T14:34:52Z</time>
+      </trkpt>
+      <trkpt lat="42.378780" lon="2.153852">
+        <ele>2150.642</ele>
+        <time>2019-03-24T14:36:21Z</time>
+      </trkpt>
+      <trkpt lat="42.377958" lon="2.153535">
+        <ele>2132.381</ele>
+        <time>2019-03-24T14:38:05Z</time>
+      </trkpt>
+      <trkpt lat="42.377517" lon="2.153695">
+        <ele>2131.361</ele>
+        <time>2019-03-24T14:38:57Z</time>
+      </trkpt>
+      <trkpt lat="42.375838" lon="2.153563">
+        <ele>2092.917</ele>
+        <time>2019-03-24T14:42:14Z</time>
+      </trkpt>
+      <trkpt lat="42.375375" lon="2.153196">
+        <ele>2082.808</ele>
+        <time>2019-03-24T14:43:00Z</time>
+      </trkpt>
+      <trkpt lat="42.374698" lon="2.153157">
+        <ele>2080.491</ele>
+        <time>2019-03-24T14:43:53Z</time>
+      </trkpt>
+      <trkpt lat="42.373839" lon="2.151631">
+        <ele>2078.912</ele>
+        <time>2019-03-24T14:45:54Z</time>
+      </trkpt>
+      <trkpt lat="42.373035" lon="2.149019">
+        <ele>2091.483</ele>
+        <time>2019-03-24T14:49:17Z</time>
+      </trkpt>
+      <trkpt lat="42.373775" lon="2.145266">
+        <ele>2077.529</ele>
+        <time>2019-03-24T14:53:55Z</time>
+      </trkpt>
+      <trkpt lat="42.373748" lon="2.144723">
+        <ele>2072.717</ele>
+        <time>2019-03-24T14:54:30Z</time>
+      </trkpt>
+      <trkpt lat="42.372976" lon="2.142753">
+        <ele>2054.493</ele>
+        <time>2019-03-24T14:57:07Z</time>
+      </trkpt>
+      <trkpt lat="42.372254" lon="2.143181">
+        <ele>2067.477</ele>
+        <time>2019-03-24T14:58:36Z</time>
+      </trkpt>
+      <trkpt lat="42.372056" lon="2.143499">
+        <ele>2076.186</ele>
+        <time>2019-03-24T14:59:20Z</time>
+      </trkpt>
+      <trkpt lat="42.371458" lon="2.143449">
+        <ele>2068.845</ele>
+        <time>2019-03-24T15:00:23Z</time>
+      </trkpt>
+      <trkpt lat="42.370568" lon="2.143668">
+        <ele>2073.747</ele>
+        <time>2019-03-24T15:02:00Z</time>
+      </trkpt>
+      <trkpt lat="42.370214" lon="2.143424">
+        <ele>2081.311</ele>
+        <time>2019-03-24T15:03:40Z</time>
+      </trkpt>
+      <trkpt lat="42.369849" lon="2.144020">
+        <ele>2073.208</ele>
+        <time>2019-03-24T15:06:46Z</time>
+      </trkpt>
+      <trkpt lat="42.368803" lon="2.144546">
+        <ele>2075.677</ele>
+        <time>2019-03-24T15:08:35Z</time>
+      </trkpt>
+      <trkpt lat="42.367873" lon="2.145333">
+        <ele>2073.798</ele>
+        <time>2019-03-24T15:10:08Z</time>
+      </trkpt>
+      <trkpt lat="42.367837" lon="2.145835">
+        <ele>2076.149</ele>
+        <time>2019-03-24T15:10:37Z</time>
+      </trkpt>
+      <trkpt lat="42.367249" lon="2.146419">
+        <ele>2074.665</ele>
+        <time>2019-03-24T15:11:31Z</time>
+      </trkpt>
+      <trkpt lat="42.366781" lon="2.147291">
+        <ele>2073.743</ele>
+        <time>2019-03-24T15:12:28Z</time>
+      </trkpt>
+      <trkpt lat="42.366334" lon="2.148695">
+        <ele>2073.249</ele>
+        <time>2019-03-24T15:13:53Z</time>
+      </trkpt>
+      <trkpt lat="42.366868" lon="2.150625">
+        <ele>2072.763</ele>
+        <time>2019-03-24T15:15:56Z</time>
+      </trkpt>
+      <trkpt lat="42.366762" lon="2.151936">
+        <ele>2071.382</ele>
+        <time>2019-03-24T15:18:10Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>
