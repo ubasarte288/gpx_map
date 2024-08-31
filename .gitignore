@@ -10,3 +10,4 @@ e2e/reports/
 /playwright/.cache/
 *.DS_Store
 newtrack.py
+*.swp
