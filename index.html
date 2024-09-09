@@ -32,8 +32,8 @@
 	<script>
 		let opts = {
 			map: {
-				center: [41.4583, 12.7059],
-				zoom: 5,
+				center: [41.932524, 2.059376],
+				zoom: 9,
 				mapTypeId: 'topo',
 				fullscreenControl: false,
 				searchControl: false,
@@ -66,6 +66,7 @@
 				legend: false,
 				marker: "position-marker",
 				autofitBounds: false,
+				
 				// dragging: true, // small map on bottom left appears
 				
 				// collapsed: false,
@@ -90,6 +91,7 @@
 				elevation_options: opts.elevation,
 				legend: false,
 				// distanceMarkers: true,
+				flyToBounds: false,        // On start, do not fly to bound all routes
 			});
 
 			routes.addTo(map);
