@@ -11,3 +11,4 @@ e2e/reports/
 *.DS_Store
 newtrack.py
 *.swp
+.idea/

@@ -104,7 +104,7 @@ L.GpxGroup = L.Class.extend({
         iconSize: [12, 12],
       }
     },
-    flyToBounds: false, // true,     // FIXME (PERE changed)
+    flyToBounds:  true,
     legend: false,
     legend_options: {
       position: "topright",
