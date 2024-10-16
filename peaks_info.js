@@ -4686,7 +4686,7 @@ var json_peaks = [
         "lat": 42.1539906034,
         "lon": 2.53606815969,
         "url": "https://www.feec.cat/activitats/100-cims/cim/volca-del-croscat/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Vulturó",
