@@ -33,7 +33,7 @@ var json_peaks = [
         "lat": 42.3701065555,
         "lon": 2.21956587983,
         "url": "https://www.feec.cat/activitats/100-cims/cim/balandrau/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Bassegoda",
@@ -51,7 +51,7 @@ var json_peaks = [
         "lat": 42.4262224049,
         "lon": 2.2328618189,
         "url": "https://www.feec.cat/activitats/100-cims/cim/bastiments/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Bellmunt",
@@ -60,7 +60,7 @@ var json_peaks = [
         "lat": 42.1015354717,
         "lon": 2.29375027555,
         "url": "https://www.feec.cat/activitats/100-cims/cim/bellmunt/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Besiberri Nord",
@@ -78,7 +78,7 @@ var json_peaks = [
         "lat": 42.593789,
         "lon": 0.825995,
         "url": "https://www.feec.cat/activitats/100-cims/cim/besiberri-del-sud/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Bony de la Pica o Pica d'Os",
@@ -96,7 +96,7 @@ var json_peaks = [
         "lat": 42.0759961774,
         "lon": 2.40727154853,
         "url": "https://www.feec.cat/activitats/100-cims/cim/cabrera/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Cambra d'Ase",
@@ -177,7 +177,7 @@ var json_peaks = [
         "lat": 42.1894343677,
         "lon": 1.73803778545,
         "url": "https://www.feec.cat/activitats/100-cims/cim/cap-de-la-gallina-pelada/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Cap de Pla Redon",
@@ -204,7 +204,7 @@ var json_peaks = [
         "lat": 42.569861,
         "lon": 1.932099,
         "url": "https://www.feec.cat/activitats/100-cims/cim/carlit/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Caro",
@@ -231,7 +231,7 @@ var json_peaks = [
         "lat": 42.123941,
         "lon": 2.251122,
         "url": "https://www.feec.cat/activitats/100-cims/cim/castell-de-besora/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Castell de Bocs",
@@ -258,7 +258,7 @@ var json_peaks = [
         "lat": 41.5374582022,
         "lon": 2.38733933206,
         "url": "https://www.feec.cat/activitats/100-cims/cim/castell-de-burriac/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Castell de Lluçà",
@@ -267,7 +267,7 @@ var json_peaks = [
         "lat": 42.054577,
         "lon": 2.040229,
         "url": "https://www.feec.cat/activitats/100-cims/cim/castell-de-lluca/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Castell de Llívia",
@@ -285,7 +285,7 @@ var json_peaks = [
         "lat": 42.1655542733,
         "lon": 2.28960053077,
         "url": "https://www.feec.cat/activitats/100-cims/cim/castell-de-milany/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Castell de Montgrí",
@@ -312,7 +312,7 @@ var json_peaks = [
         "lat": 42.3199721871,
         "lon": 3.16782473062,
         "url": "https://www.feec.cat/activitats/100-cims/cim/castell-saverdera/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Castellsapera",
@@ -321,7 +321,7 @@ var json_peaks = [
         "lat": 41.6445253816,
         "lon": 1.97087419147,
         "url": "https://www.feec.cat/activitats/100-cims/cim/castellsapera/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Catinell",
@@ -339,7 +339,7 @@ var json_peaks = [
         "lat": 41.0840507023,
         "lon": 0.875157009664,
         "url": "https://www.feec.cat/activitats/100-cims/cim/cavall-bernat-de-llaberia/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Clapí Vell",
@@ -357,7 +357,7 @@ var json_peaks = [
         "lat": 42.1216063043,
         "lon": 1.78708523867,
         "url": "https://www.feec.cat/activitats/100-cims/cim/cogullo-destela/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Cogulló de Cal Torre",
@@ -366,7 +366,7 @@ var json_peaks = [
         "lat": 41.6874716091,
         "lon": 1.68642459544,
         "url": "https://www.feec.cat/activitats/100-cims/cim/cogullo-de-cal-torre/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Cogulló de Turp",
@@ -402,7 +402,7 @@ var json_peaks = [
         "lat": 42.2836928,
         "lon": 1.726288,
         "url": "https://www.feec.cat/activitats/100-cims/cim/comabona/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Comanegra",
@@ -465,7 +465,7 @@ var json_peaks = [
         "lat": 41.740942,
         "lon": 2.059581,
         "url": "https://www.feec.cat/activitats/100-cims/cim/codol-del-castellar/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "el Bres",
@@ -501,7 +501,7 @@ var json_peaks = [
         "lat": 41.3375872509,
         "lon": 1.57862965411,
         "url": "https://www.feec.cat/activitats/100-cims/cim/el-castellot/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "el Codó",
@@ -519,7 +519,7 @@ var json_peaks = [
         "lat": 42.1100346816,
         "lon": 1.6394532915,
         "url": "https://www.feec.cat/activitats/100-cims/cim/el-cogul/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "el Cogulló",
@@ -564,7 +564,7 @@ var json_peaks = [
         "lat": 41.861259,
         "lon": 1.93872,
         "url": "https://www.feec.cat/activitats/100-cims/cim/el-garrofi/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "El Mont",
@@ -591,7 +591,7 @@ var json_peaks = [
         "lat": 40.7341570377,
         "lon": 0.227329062732,
         "url": "https://www.feec.cat/activitats/100-cims/cim/el-negrell/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "el Punxó",
@@ -663,7 +663,7 @@ var json_peaks = [
         "lat": 42.0892489918,
         "lon": 1.72742659445,
         "url": "https://www.feec.cat/activitats/100-cims/cim/els-tossals/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Els Àngels",
@@ -780,7 +780,7 @@ var json_peaks = [
         "lat": 41.8707878226,
         "lon": 2.32093889931,
         "url": "https://www.feec.cat/activitats/100-cims/cim/lenclusa/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "L'Espina",
@@ -789,7 +789,7 @@ var json_peaks = [
         "lat": 40.8793690775,
         "lon": 0.360899310112,
         "url": "https://www.feec.cat/activitats/100-cims/cim/lespina/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "l'Oratori",
@@ -888,7 +888,7 @@ var json_peaks = [
         "lat": 42.093104,
         "lon": 1.624209,
         "url": "https://www.feec.cat/activitats/100-cims/cim/la-guardia-serra-de-busa/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "la Miranda de Terranyes",
@@ -915,7 +915,7 @@ var json_peaks = [
         "lat": 41.6411519036,
         "lon": 2.01767220976,
         "url": "https://www.feec.cat/activitats/100-cims/cim/la-mola-de-sant-llorenc-del-munt/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "la Moleta",
@@ -987,7 +987,7 @@ var json_peaks = [
         "lat": 42.3205750504,
         "lon": 1.89266087667,
         "url": "https://www.feec.cat/activitats/100-cims/cim/la-tosa/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "La Tossa (Tivissa)",
@@ -1005,7 +1005,7 @@ var json_peaks = [
         "lat": 41.7893335256,
         "lon": 2.44395480371,
         "url": "https://www.feec.cat/activitats/100-cims/cim/les-agudes/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Les Borregues",
@@ -1176,7 +1176,7 @@ var json_peaks = [
         "lat": 41.8088174884,
         "lon": 2.38261778463,
         "url": "https://www.feec.cat/activitats/100-cims/cim/matagalls/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Maubèrme",
@@ -1221,7 +1221,7 @@ var json_peaks = [
         "lat": 41.5884059331,
         "lon": 1.82647684649,
         "url": "https://www.feec.cat/activitats/100-cims/cim/miranda-de-santa-magdalena/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Miranda del Príncep",
@@ -1374,7 +1374,7 @@ var json_peaks = [
         "lat": 42.6333280573,
         "lon": 0.875353350552,
         "url": "https://www.feec.cat/activitats/100-cims/cim/montardo/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Montarenyo de Boldís",
@@ -1419,7 +1419,7 @@ var json_peaks = [
         "lat": 41.6750412662,
         "lon": 2.00462687673,
         "url": "https://www.feec.cat/activitats/100-cims/cim/montcau/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Montcaubo (lo Calbo)",
@@ -1437,7 +1437,7 @@ var json_peaks = [
         "lat": 41.7886622761,
         "lon": 2.95619265406,
         "url": "https://www.feec.cat/activitats/100-cims/cim/montclar/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Montcorbison",
@@ -1473,7 +1473,7 @@ var json_peaks = [
         "lat": 41.5999938678,
         "lon": 1.80508768977,
         "url": "https://www.feec.cat/activitats/100-cims/cim/montgros/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Montigalar",
@@ -1563,7 +1563,7 @@ var json_peaks = [
         "lat": 42.095783,
         "lon": 1.908241,
         "url": "https://www.feec.cat/activitats/100-cims/cim/montsent-serrat-de-picancel/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Montsent de Pallars",
@@ -1653,7 +1653,7 @@ var json_peaks = [
         "lat": 42.1847955583,
         "lon": 1.5209102343,
         "url": "https://www.feec.cat/activitats/100-cims/cim/pedro-dels-quatre-batlles/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Penya Aguda",
@@ -1689,7 +1689,7 @@ var json_peaks = [
         "lat": 42.3063002008,
         "lon": 1.84247482148,
         "url": "https://www.feec.cat/activitats/100-cims/cim/penyes-altes/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Pic Alt del Cubil",
@@ -1797,7 +1797,7 @@ var json_peaks = [
         "lat": 42.5913820355,
         "lon": 0.827834271065,
         "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-comaloforno/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Pic de Contraix",
@@ -1815,7 +1815,7 @@ var json_peaks = [
         "lat": 42.281459,
         "lon": 1.670418,
         "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-costa-cabirolera/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Pic de Filià (Tossal de Paiasso)",
@@ -1896,7 +1896,7 @@ var json_peaks = [
         "lat": 42.4239313658,
         "lon": 2.21373246579,
         "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-linfern/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Pic de l'Àguila",
@@ -2139,7 +2139,7 @@ var json_peaks = [
         "lat": 41.6553025564,
         "lon": 2.12829694974,
         "url": "https://www.feec.cat/activitats/100-cims/cim/pic-del-vent/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Pic dels Moros",
@@ -2202,7 +2202,7 @@ var json_peaks = [
         "lat": 42.6669371771,
         "lon": 1.39790065859,
         "url": "https://www.feec.cat/activitats/100-cims/cim/pica-destats/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Pica de Cerví",
@@ -2274,7 +2274,7 @@ var json_peaks = [
         "lat": 42.2399451722,
         "lon": 1.70292577431,
         "url": "https://www.feec.cat/activitats/100-cims/cim/pollego-superior-pedraforca/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Pui d'Urdosa",
@@ -2337,7 +2337,7 @@ var json_peaks = [
         "lat": 41.7573307749,
         "lon": 2.92821015443,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-cadiretes/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig Castellar",
@@ -2346,7 +2346,7 @@ var json_peaks = [
         "lat": 41.4703022946,
         "lon": 2.2065864631,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-castellar/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig Cavaller",
@@ -2364,7 +2364,7 @@ var json_peaks = [
         "lat": 41.5756360735,
         "lon": 1.89299280596,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-cendros/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig Clarà",
@@ -2382,7 +2382,7 @@ var json_peaks = [
         "lat": 42.1397374015,
         "lon": 2.10833614168,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-cornador/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig Cubell",
@@ -2454,7 +2454,7 @@ var json_peaks = [
         "lat": 41.4121939529,
         "lon": 2.05499061251,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-dolorda/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig de Bestracà",
@@ -2571,7 +2571,7 @@ var json_peaks = [
         "lat": 41.8757956096,
         "lon": 2.10883311828,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-caritat/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig de la Collada Verda",
@@ -2616,7 +2616,7 @@ var json_peaks = [
         "lat": 41.9810070598,
         "lon": 2.38898447593,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-forca/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig de la Gavarra",
@@ -2679,7 +2679,7 @@ var json_peaks = [
         "lat": 41.780436,
         "lon": 2.975677,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-cols/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig de les Morreres",
@@ -2688,7 +2688,7 @@ var json_peaks = [
         "lat": 42.1509179033,
         "lon": 1.5394423235,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-morreres/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig de les Tres Esteles",
@@ -2706,7 +2706,7 @@ var json_peaks = [
         "lat": 42.1090151344,
         "lon": 2.34931774822,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-aligues/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig de Millà",
@@ -2760,7 +2760,7 @@ var json_peaks = [
         "lat": 41.959633,
         "lon": 2.376163,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-del-far/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig del Pam",
@@ -2796,7 +2796,7 @@ var json_peaks = [
         "lat": 42.2843006575,
         "lon": 2.2539920533,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-estela/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig Falcó",
@@ -2967,7 +2967,7 @@ var json_peaks = [
         "lat": 42.3832660904,
         "lon": 2.11679066241,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puigmal/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puigpedrós",
@@ -2976,7 +2976,7 @@ var json_peaks = [
         "lat": 42.4875750896,
         "lon": 1.76193328898,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puigpedros/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puigsacalm",
@@ -2985,7 +2985,7 @@ var json_peaks = [
         "lat": 42.1251777741,
         "lon": 2.38789142783,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puigsacalm/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puigsallança",
@@ -2994,7 +2994,7 @@ var json_peaks = [
         "lat": 42.1150682972,
         "lon": 2.58147210612,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puigsallanca/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puigsoler",
@@ -3030,7 +3030,7 @@ var json_peaks = [
         "lat": 42.5857010202,
         "lon": 0.880286835146,
         "url": "https://www.feec.cat/activitats/100-cims/cim/punta-alta/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Punta d'Harlé",
@@ -3318,7 +3318,7 @@ var json_peaks = [
         "lat": 42.215193,
         "lon": 1.96373,
         "url": "https://www.feec.cat/activitats/100-cims/cim/roca-del-joc-roca-de-la-devesa-jussana/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Roca Entravessada",
@@ -3354,7 +3354,7 @@ var json_peaks = [
         "lat": 42.136518,
         "lon": 2.49813,
         "url": "https://www.feec.cat/activitats/100-cims/cim/roca-lladre/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Roca Maura",
@@ -3390,7 +3390,7 @@ var json_peaks = [
         "lat": 42.0098094301,
         "lon": 2.44560136469,
         "url": "https://www.feec.cat/activitats/100-cims/cim/rocallarga/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Rocalta",
@@ -3435,7 +3435,7 @@ var json_peaks = [
         "lat": 42.1192540287,
         "lon": 1.95140868336,
         "url": "https://www.feec.cat/activitats/100-cims/cim/salga-aguda/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Sant Antoni",
@@ -3489,7 +3489,7 @@ var json_peaks = [
         "lat": 41.6053835626,
         "lon": 1.81150454088,
         "url": "https://www.feec.cat/activitats/100-cims/cim/sant-jeroni/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Sant Mamet",
@@ -3507,7 +3507,7 @@ var json_peaks = [
         "lat": 42.2649312024,
         "lon": 1.89873987298,
         "url": "https://www.feec.cat/activitats/100-cims/cim/sant-marc-de-broca/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Sant Martí de la Roca",
@@ -3525,7 +3525,7 @@ var json_peaks = [
         "lat": 42.010248,
         "lon": 2.206427,
         "url": "https://www.feec.cat/activitats/100-cims/cim/sant-marti-xic-castell-de-voltrega/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Sant Miquel de Montclar",
@@ -3606,7 +3606,7 @@ var json_peaks = [
         "lat": 41.702765106,
         "lon": 2.12295683181,
         "url": "https://www.feec.cat/activitats/100-cims/cim/sant-sadurni-de-gallifa/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Sant Salvador",
@@ -3615,7 +3615,7 @@ var json_peaks = [
         "lat": 42.061364,
         "lon": 1.781976,
         "url": "https://www.feec.cat/activitats/100-cims/cim/sant-salvador/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Sant Salvador de les Espases",
@@ -3624,7 +3624,7 @@ var json_peaks = [
         "lat": 41.5790930928,
         "lon": 1.88442879727,
         "url": "https://www.feec.cat/activitats/100-cims/cim/sant-salvador-de-les-espases/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Sant Simplici",
@@ -3714,7 +3714,7 @@ var json_peaks = [
         "lat": 42.080405,
         "lon": 2.259536,
         "url": "https://www.feec.cat/activitats/100-cims/cim/serrat-alt/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Serrat de Carrasquers",
@@ -3732,7 +3732,7 @@ var json_peaks = [
         "lat": 41.990488,
         "lon": 1.843372,
         "url": "https://www.feec.cat/activitats/100-cims/cim/serrat-de-la-madrona/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Serrat de Migdia (Serrat de Picancel)",
@@ -3741,7 +3741,7 @@ var json_peaks = [
         "lat": 42.118155,
         "lon": 1.931652,
         "url": "https://www.feec.cat/activitats/100-cims/cim/serrat-de-migdia-serrat-de-picancel/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Serrat de Sant Isidre",
@@ -3750,7 +3750,7 @@ var json_peaks = [
         "lat": 42.090509,
         "lon": 1.961989,
         "url": "https://www.feec.cat/activitats/100-cims/cim/serrat-de-sant-isidre/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Serrat Voltor",
@@ -3759,7 +3759,7 @@ var json_peaks = [
         "lat": 42.188121,
         "lon": 1.777023,
         "url": "https://www.feec.cat/activitats/100-cims/cim/serrat-voltor/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Serret del Cisa",
@@ -3777,7 +3777,7 @@ var json_peaks = [
         "lat": 42.1677248606,
         "lon": 1.91070593443,
         "url": "https://www.feec.cat/activitats/100-cims/cim/sobrepuny/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Taga",
@@ -3786,7 +3786,7 @@ var json_peaks = [
         "lat": 42.2807720623,
         "lon": 2.20988746608,
         "url": "https://www.feec.cat/activitats/100-cims/cim/taga/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Tagamanent",
@@ -3795,7 +3795,7 @@ var json_peaks = [
         "lat": 41.7474775481,
         "lon": 2.29602067502,
         "url": "https://www.feec.cat/activitats/100-cims/cim/tagamanent/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Talaia del Montmell",
@@ -3894,7 +3894,7 @@ var json_peaks = [
         "lat": 42.4086558,
         "lon": 1.2148545,
         "url": "https://www.feec.cat/activitats/100-cims/cim/torreta-de-lorri/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Torreta del Cadí",
@@ -3903,7 +3903,7 @@ var json_peaks = [
         "lat": 42.2870741235,
         "lon": 1.58419812657,
         "url": "https://www.feec.cat/activitats/100-cims/cim/torreta-del-cadi/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Torreta del Montsià",
@@ -4128,7 +4128,7 @@ var json_peaks = [
         "lat": 41.5727833358,
         "lon": 1.3049206803,
         "url": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-suro/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Tossal del Mas de Nadal",
@@ -4200,7 +4200,7 @@ var json_peaks = [
         "lat": 42.201154,
         "lon": 1.84353,
         "url": "https://www.feec.cat/activitats/100-cims/cim/tossal-llisoi/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Tossau de Mar",
@@ -4497,7 +4497,7 @@ var json_peaks = [
         "lat": 41.418435,
         "lon": 2.153352,
         "url": "https://www.feec.cat/activitats/100-cims/cim/turo-den-mora-turo-del-carmel/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Turó d'Onofre Arnau",
@@ -4524,7 +4524,7 @@ var json_peaks = [
         "lat": 41.8471462109,
         "lon": 2.17154371646,
         "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-bellver/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Turó de Can Dolcet",
@@ -4542,7 +4542,7 @@ var json_peaks = [
         "lat": 41.620262,
         "lon": 1.815019,
         "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-lermita/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Turó de l'Escletxa (Turó de Montconill)",
@@ -4560,7 +4560,7 @@ var json_peaks = [
         "lat": 41.776488,
         "lon": 2.434813,
         "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-lhome/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Turó de la Pola (o de les Tres Creus)",
@@ -4569,7 +4569,7 @@ var json_peaks = [
         "lat": 41.64995,
         "lon": 1.969698,
         "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-les-tres-creus/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Turó de la Torre o de Castellnou",
@@ -4578,7 +4578,7 @@ var json_peaks = [
         "lat": 41.8509216559,
         "lon": 1.8300988474,
         "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-la-torre-o-de-castellnou/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Turó de Magarola",
@@ -4587,7 +4587,7 @@ var json_peaks = [
         "lat": 41.4421744885,
         "lon": 2.12968297951,
         "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-magarola/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Turó de Montcada",
@@ -4641,7 +4641,7 @@ var json_peaks = [
         "lat": 41.832591,
         "lon": 2.347413,
         "url": "https://www.feec.cat/activitats/100-cims/cim/turo-del-pou-den-sala/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Turó del Ros",
@@ -4695,6 +4695,6 @@ var json_peaks = [
         "lat": 42.2857798845,
         "lon": 1.63642947853,
         "url": "https://www.feec.cat/activitats/100-cims/cim/vulturo/",
-        "completat": true
+        "completat": false
     }
 ]
