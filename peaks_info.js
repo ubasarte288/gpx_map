@@ -555,7 +555,7 @@ var json_peaks = [
         "lat": 42.0208408193,
         "lon": 2.5366387097,
         "url": "https://www.feec.cat/activitats/100-cims/cim/el-far/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "el Garrofí",
@@ -987,7 +987,7 @@ var json_peaks = [
         "lat": 42.3205750504,
         "lon": 1.89266087667,
         "url": "https://www.feec.cat/activitats/100-cims/cim/la-tosa/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "La Tossa (Tivissa)",
@@ -1608,7 +1608,7 @@ var json_peaks = [
         "lat": 42.4246523941,
         "lon": 2.16788405017,
         "url": "https://www.feec.cat/activitats/100-cims/cim/noufonts/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Pala Alta",
@@ -2949,7 +2949,7 @@ var json_peaks = [
         "lat": 41.7026698984,
         "lon": 2.24118699931,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puiggracios/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Puigllançada",
@@ -4524,7 +4524,7 @@ var json_peaks = [
         "lat": 41.8471462109,
         "lon": 2.17154371646,
         "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-bellver/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Turó de Can Dolcet",
