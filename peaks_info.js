@@ -393,7 +393,7 @@ var json_peaks = [
         "lat": 41.740870427,
         "lon": 1.78096524985,
         "url": "https://www.feec.cat/activitats/100-cims/cim/collbaix/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Comabona",
@@ -2994,7 +2994,7 @@ var json_peaks = [
         "lat": 42.1150682972,
         "lon": 2.58147210612,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puigsallanca/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Puigsoler",
@@ -3759,7 +3759,7 @@ var json_peaks = [
         "lat": 42.188121,
         "lon": 1.777023,
         "url": "https://www.feec.cat/activitats/100-cims/cim/serrat-voltor/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Serret del Cisa",
