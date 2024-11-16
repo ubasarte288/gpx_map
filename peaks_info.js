@@ -591,7 +591,7 @@ var json_peaks = [
         "lat": 40.7341570377,
         "lon": 0.227329062732,
         "url": "https://www.feec.cat/activitats/100-cims/cim/el-negrell/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "el Punxó",
@@ -789,7 +789,7 @@ var json_peaks = [
         "lat": 40.8793690775,
         "lon": 0.360899310112,
         "url": "https://www.feec.cat/activitats/100-cims/cim/lespina/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "l'Oratori",
