@@ -53,3 +53,4 @@ let tracks = ['tracks/transequia-2024.gpx',
               'tracks/Caco_Bellmunt.gpx',
               'tracks/vallter_refugi_de_carançà_vallter.gpx',
               'tracks/Puigsacalm.gpx'
+]
