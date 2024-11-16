@@ -42,5 +42,14 @@ let tracks = ['tracks/transequia-2024.gpx',
               'tracks/sant-marti-sacalm-el-far.gpx',
               'tracks/sant-jeroni-montserrat',
               'tracks/lestany-puig-de-la-caritat.gpx',
-              'tracks/pedraforca.gpx'
-
+              'tracks/pedraforca.gpx',
+              'tracks/La_Mola_amb_NT.gpx',
+              'tracks/Creu_de_Gurb_amb_NT_.gpx',
+              'tracks/Puigmal_Núria_Fontalba.gpx',
+              'tracks/Collbaix.gpx',
+              'tracks/Salga_Aguda_1172.gpx',
+              'tracks/Gemi_dissabte_Sant_Honorat.gpx',
+              'tracks/El_Taga.gpx',
+              'tracks/Caco_Bellmunt.gpx',
+              'tracks/vallter_refugi_de_carançà_vallter.gpx',
+              'tracks/Puigsacalm.gpx'
