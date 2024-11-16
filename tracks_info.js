@@ -52,5 +52,10 @@ let tracks = ['tracks/transequia-2024.gpx',
               'tracks/El_Taga.gpx',
               'tracks/Caco_Bellmunt.gpx',
               'tracks/vallter_refugi_de_carançà_vallter.gpx',
-              'tracks/Puigsacalm.gpx'
+              'tracks/Puigsacalm.gpx',
+              'tracks/Fins_a_la_Bauma_de_L_Espluga_.gpx',
+              'tracks/Navarcles_.gpx',
+              'tracks/Artés_amb_el_ganàpia_.gpx',
+              'tracks/moia-olo.gpx',
+              'tracks/sant-feliu-de-guixols-girona-sant-feliu-de-guixols.gpx'
 ]
