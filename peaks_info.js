@@ -1905,7 +1905,7 @@ var json_peaks = [
         "lat": 41.139903,
         "lon": 0.602189,
         "url": "https://www.feec.cat/activitats/100-cims/cim/pic-de-laguila/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Pic de la Coma de Varilles",
