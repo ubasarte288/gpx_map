@@ -26,4 +26,21 @@ let tracks = ['tracks/transequia-2024.gpx',
               'tracks/senda-de-los-cazadores-cola-de-caballo.gpx', 
               'tracks/moia-calders-monistrol-granera-castelltercol-castellcir-coll.gpx', 
               'tracks/st-sadurni-de-gallifa.gpx'
-];
+              'tracks/puig-cornador.gpx'
+              'tracks/pic-de-cabirolera-i-vulturo.gpx'
+              'tracks/matagalls-des-de-collformic.gpx'
+              'tracks/rocacorba.gpx'
+              'tracks/puiggracios-cingles-de-berti-la-trona.gpx'
+              'tracks/moia-castell-de-la-popa.gpx'
+              'tracks/castell-de-sant-miquel-girona.gpx'
+              'tracks/tagamanent.gpx'
+              'tracks/penyes-altes-del-moixero.gpx'
+              'tracks/st-aniol-finestres-roca-del-castell-puigsallanca.gpx'
+              'tracks/gallina-pelada.gpx'
+              'tracks/pica-destats.gpx'
+              'tracks/santuari-de-corbera-cogullo-destela.gpx'
+              'tracks/sant-marti-sacalm-el-far.gpx'
+              'tracks/sant-jeroni-montserrat'
+              'tracks/lestany-puig-de-la-caritat.gpx'
+              'tracks/pedraforca.gpx'
+
