@@ -96,7 +96,7 @@ var json_peaks = [
         "lat": 42.0759961774,
         "lon": 2.40727154853,
         "url": "https://www.feec.cat/activitats/100-cims/cim/cabrera/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Cambra d'Ase",
