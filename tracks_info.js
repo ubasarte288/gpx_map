@@ -79,5 +79,14 @@ let tracks = ['tracks/transequia-2024.gpx',
               'tracks/excurcio-a-la-cova-danes.gpx',
               'tracks/vall-de-bianya.gpx',
               'tracks/massis-de-lorri-3-dies.gpx',
-              'tracks/trail-del-fai-2021-quart-de-marato.gpx' 
+              'tracks/trail-del-fai-2021-quart-de-marato.gpx',
+              'tracks/Turó_de_Comellats_l_Ermità_i_avenc_dona_morta_.gpx',
+              'tracks/Bastille_et_Mont_Jalla.gpx',
+              'tracks/Carenes_del_cogulló.gpx',
+              'tracks/Via_ferrada_Baumes_Corcades.gpx',
+              'tracks/Baumes_del_Lluçanès_amb_el_GEMI.gpx',
+              'tracks/La_foradada.gpx',
+              'tracks/Sant_Salvador_d_Espases_i_el_Puig_Cendrós.gpx',
+              'tracks/Caco_Castell_de_Bellver.gpx',
+              'tracks/Morning_Hike.gpx'
 ]
