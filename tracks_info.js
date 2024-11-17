@@ -88,5 +88,14 @@ let tracks = ['tracks/transequia-2024.gpx',
               'tracks/La_foradada.gpx',
               'tracks/Sant_Salvador_d_Espases_i_el_Puig_Cendrós.gpx',
               'tracks/Caco_Castell_de_Bellver.gpx',
-              'tracks/Morning_Hike.gpx'
+              'tracks/Morning_Hike.gpx',
+              'tracks/camping-canon-do-sil-monasterio-sta-cristina-canon-de-sil-ca.gpx',
+              'tracks/puigventos-cogullo-destela-roca-dauro-torreta-dels-enginyers.gpx',
+              'tracks/llaes-balmes-del-teixidor-castell-de-milany-llaes.gpx',
+              'tracks/club-nautic-del-panta-de-sau-morro-de-labella-tavartet.gpx',
+              'tracks/la-fageda-den-jorda.gpx',
+              'tracks/santa-fe-les-agudes-turo-de-lhome-santa-fe.gpx',
+              'tracks/serra-del-picancel-serrat-del-migdia-cingles-de-la-por-sant-.gpx',
+              'tracks/malanyeu-griell-de-cal-pigot-la-foradada-cap-de-la-baga-de-c.gpx',
+              'tracks/lac-des-bouillouses-carlit-lac-des-bouillouses.gpx'
 ]
