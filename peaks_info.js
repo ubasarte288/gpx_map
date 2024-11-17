@@ -2364,7 +2364,7 @@ var json_peaks = [
         "lat": 41.5756360735,
         "lon": 1.89299280596,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-cendros/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Puig Clarà",
@@ -3354,7 +3354,7 @@ var json_peaks = [
         "lat": 42.136518,
         "lon": 2.49813,
         "url": "https://www.feec.cat/activitats/100-cims/cim/roca-lladre/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Roca Maura",
@@ -3732,7 +3732,7 @@ var json_peaks = [
         "lat": 41.990488,
         "lon": 1.843372,
         "url": "https://www.feec.cat/activitats/100-cims/cim/serrat-de-la-madrona/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Serrat de Migdia (Serrat de Picancel)",
@@ -4542,7 +4542,7 @@ var json_peaks = [
         "lat": 41.620262,
         "lon": 1.815019,
         "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-lermita/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Turó de l'Escletxa (Turó de Montconill)",
