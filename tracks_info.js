@@ -58,5 +58,5 @@ let tracks = ['tracks/transequia-2024.gpx',
               'tracks/Artés_amb_el_ganàpia_.gpx',
               'tracks/moia-olo.gpx',
               'tracks/sant-feliu-de-guixols-girona-sant-feliu-de-guixols.gpx',
-              'tracks/Cabrera_.gpx
+              'tracks/Cabrera_.gpx'
 ]
