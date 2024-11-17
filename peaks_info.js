@@ -3894,7 +3894,7 @@ var json_peaks = [
         "lat": 42.4086558,
         "lon": 1.2148545,
         "url": "https://www.feec.cat/activitats/100-cims/cim/torreta-de-lorri/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Torreta del Cadí",
