@@ -3624,7 +3624,7 @@ var json_peaks = [
         "lat": 41.5790930928,
         "lon": 1.88442879727,
         "url": "https://www.feec.cat/activitats/100-cims/cim/sant-salvador-de-les-espases/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Sant Simplici",
