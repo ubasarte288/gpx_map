@@ -98,4 +98,5 @@ let tracks = ['tracks/transequia-2024.gpx',
               'tracks/serra-del-picancel-serrat-del-migdia-cingles-de-la-por-sant-.gpx',
               'tracks/malanyeu-griell-de-cal-pigot-la-foradada-cap-de-la-baga-de-c.gpx',
               'tracks/lac-des-bouillouses-carlit-lac-des-bouillouses.gpx'
+              'tracks/Puig_Soler.gpx'
 ]
