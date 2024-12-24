@@ -465,7 +465,7 @@ var json_peaks = [
         "lat": 41.740942,
         "lon": 2.059581,
         "url": "https://www.feec.cat/activitats/100-cims/cim/codol-del-castellar/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "el Bres",
