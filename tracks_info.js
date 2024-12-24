@@ -100,5 +100,5 @@ let tracks = ['tracks/transequia-2024.gpx',
               'tracks/lac-des-bouillouses-carlit-lac-des-bouillouses.gpx',
               'tracks/Puig_Soler.gpx',
               'tracks/Puig_de_la_Creu.gpx',
-              'tracks/Granera_Castellar.gpx'
+              'tracks/Granera_Castellar_.gpx'
 ]
