@@ -2661,7 +2661,7 @@ var json_peaks = [
         "lat": 42.3633808585,
         "lon": 2.31874391776,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-agudes/",
-        "completat": true
+        "completat": false
     },
     {
         "nom": "Puig de les Bruixes",
