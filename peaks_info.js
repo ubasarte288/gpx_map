@@ -3390,7 +3390,7 @@ var json_peaks = [
         "lat": 42.0098094301,
         "lon": 2.44560136469,
         "url": "https://www.feec.cat/activitats/100-cims/cim/rocallarga/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Rocalta",
