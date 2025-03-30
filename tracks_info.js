@@ -115,6 +115,5 @@ let tracks = ['tracks/transequia-2024.gpx',
               'tracks/Trail_3_Comarques.gpx',
               'tracks/Saltamarrades.gpx',
               'tracks/fai.gpx',
-              'tracks/ratafia.gpx'
-          
+              'tracks/ratafia.gpx'          
 ]
