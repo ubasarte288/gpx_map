@@ -104,6 +104,17 @@ let tracks = ['tracks/transequia-2024.gpx',
               'tracks/Rocallarga.gpx',
               'tracks/Puig_Alter_522.gpx',
               'tracks/La_Romànica_2024_Navàs.gpx',
-              'tracks/bombers.gpx'
+              'tracks/bombers.gpx',
+              'tracks/Sant_Silvestre_Estany.gpx',
+              'tracks/Cursa_Guardiola.gpx',
+              'tracks/Cursa_Fageda.gpx',
+              'tracks/Cervesa.gpx',
+              'tracks/Hostalets.gpx',
+              'tracks/El_Catllar.gpx',
+              'tracks/Trail_Fonts_del_Montseny.gpx',
+              'tracks/Trail_3_Comarques.gpx',
+              'tracks/Saltamarrades.gpx',
+              'tracks/fai.gpx',
+              'tracks/ratafia.gpx'
           
 ]
