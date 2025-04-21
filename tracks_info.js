@@ -716,5 +716,11 @@ let tracks = [
         "tags": [
             "Tipus-Caminada"
         ]
-    }
+    },
+    {
+        "file": "tracks/1_3_Moià_Alpens (2).gpx",
+        "tags": [
+            "Tipus-Travessa"
+        ]
+    }   
 ];
