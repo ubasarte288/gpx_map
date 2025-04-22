@@ -4641,7 +4641,7 @@ var json_peaks = [
         "lat": 41.832591,
         "lon": 2.347413,
         "url": "https://www.feec.cat/activitats/100-cims/cim/turo-del-pou-den-sala/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Turó del Ros",
