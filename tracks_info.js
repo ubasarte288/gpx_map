@@ -722,5 +722,11 @@ let tracks = [
         "tags": [
             "Tipus-Travessa"
         ]
+    },
+    {
+        "file": "tracks/Pou_Sala.gpx",
+        "tags": [
+            "Tipus-Caminada"
+        ]
     }   
 ];
