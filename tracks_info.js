@@ -728,5 +728,17 @@ let tracks = [
         "tags": [
             "Tipus-Caminada"
         ]
-    }   
+    },
+     {
+        "file": "tracks/cala-galdana.gpx",
+        "tags": [
+            "Tipus-Caminada"
+        ]
+    },
+     {
+        "file": "tracks/sant-tomas.gpx",
+        "tags": [
+            "Tipus-Caminada"
+        ]
+    }
 ];
