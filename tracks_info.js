@@ -740,5 +740,11 @@ let tracks = [
         "tags": [
             "Tipus-Caminada"
         ]
+    },
+    {
+        "file": "tracks/Vall_de_Ribes.gpx",
+        "tags": [
+            "Tipus-Caminada"
+        ]
     }
 ];
