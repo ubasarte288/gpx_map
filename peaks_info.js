@@ -105,7 +105,7 @@ var json_peaks = [
         "lat": 42.450876,
         "lon": 2.13126125,
         "url": "https://www.feec.cat/activitats/100-cims/cim/cambra-dase/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Campirme",
@@ -3822,7 +3822,7 @@ var json_peaks = [
         "lat": 42.4344424965,
         "lon": 2.14714732054,
         "url": "https://www.feec.cat/activitats/100-cims/cim/torre-deina/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Torre de Goà",
