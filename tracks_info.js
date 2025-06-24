@@ -746,5 +746,11 @@ let tracks = [
         "tags": [
             "Tipus-Caminada"
         ]
+    },
+    {
+        "file": "tracks/Cambra_d_ase.gpx",
+        "tags": [
+            "Tipus-Caminada"
+        ]
     }
 ];
