@@ -19,10 +19,13 @@
 	<script src="https://unpkg.com/togeojson@0.16.0"></script>
 	<script src="https://unpkg.com/leaflet-filelayer@1.2.0"></script>
 
+	<script src="https://unpkg.com/leaflet-gpx@1.7.0/gpx.js"></script>
+
 	<script src="peaks_info.js"></script>
 	<script src="tracks_info.js"></script>
 	<script src="gc_olds_info.js"></script>
 	<script src="sostres_info.js"></script>
+	<script src="tresmils_info.js"></script>
 
 	<script src="mylib/local_storage.js"></script>
 	<script src="mylib/templates_markers.js"></script>
@@ -49,11 +52,11 @@
 <div id="elevation-div" class="leaflet-control elevation"></div>
 
 <script>
+	// const defaultMarkerFilter = ['Essencials Assolits', 'No Essencials Assolits'];
+	// const showGC = false;
+
 	const defaultMarkerFilter = ['Essencials Assolits', 'No Essencials Assolits'];
 	const showGC = false;
-
-	//const defaultMarkerFilter = ['Essencials No Assolits', 'No Essencials No Assolits', 'GCs 103 Antics No Trobats'];
-	//const showGC = true;
 
 	const savedCenter = loadWithExpiry('mapCenter', [41.959020, 2.057627]);
 	const savedZoom = loadWithExpiry('mapZoom', 11);
@@ -146,7 +149,7 @@
 		routes.on('route_loaded', (e) => handleRouteLoaded(e, uniqueTags, tracks));
 
 		// Add the marker's layers
-		L.control.layers({}, createMarkers(json_peaks, json_sostres, json_gc_olds, showGC), {
+		const markersControl = L.control.layers({}, createMarkers(json_peaks, json_sostres, json_tresmils, json_gc_olds, showGC), {
 			position: 'topright'
 		}).addTo(map);
 
@@ -196,6 +199,7 @@
 
 			customCheckoxes(checkboxes, 'selectedLayerLabels2');
 
+			uploadGPX(map, routes);
 		});
 
 		map.attributionControl.addAttribution('Map Data: &copy; <a href="https://github.com/adoroszlai">Attila Doroszlai</a> (<a href="https://github.com/adoroszlai/joebed/blob/gh-pages/LICENSE.md">MIT License</a>)');
