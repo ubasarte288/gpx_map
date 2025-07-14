@@ -4,14 +4,14 @@ var json_tresmils = [
     "alt": 3404,
     "lat": "42.6310731",
     "lon": "0.6566457",
-    "completat": false
+    "completat": true
   },
   {
     "nom": "Posets",
     "alt": 3375,
     "lat": "42.6546292",
     "lon": "0.4352323",
-    "completat": false
+    "completat": true
   },
   {
     "nom": "Punta de Astorg",
@@ -417,7 +417,7 @@ var json_tresmils = [
     "alt": 3143,
     "lat": "42.666952",
     "lon": "1.3978986",
-    "completat": false
+    "completat": true
   },
   {
     "nom": "Punta del Sabre",
@@ -473,7 +473,7 @@ var json_tresmils = [
     "alt": 3129,
     "lat": "42.6680493",
     "lon": "1.396855",
-    "completat": false
+    "completat": true
   },
   {
     "nom": "Pico de Gourgs Blancs",
@@ -725,7 +725,7 @@ var json_tresmils = [
     "alt": 3080,
     "lat": "42.644025",
     "lon": "0.4280192",
-    "completat": false
+    "completat": true
   },
   {
     "nom": "Pico de Bardamina",
@@ -739,7 +739,7 @@ var json_tresmils = [
     "alt": 3078,
     "lat": "42.6719036",
     "lon": "1.4063347",
-    "completat": false
+    "completat": true
   },
   {
     "nom": "Pico de Paúl",
@@ -1390,7 +1390,7 @@ var json_tresmils = [
     "alt": 3010,
     "lat": "42.62947",
     "lon": "0.6985709",
-    "completat": false
+    "completat": true
   },
   {
     "nom": "Punta Lacq",
@@ -1435,11 +1435,11 @@ var json_tresmils = [
     "completat": false
   },
   {
-    "nom": "La Forqueta",
+    "nom": "La moliera",
     "alt": 3007,
     "lat": "42.6315714",
     "lon": "0.4256967",
-    "completat": false
+    "completat": true
   },
   {
     "nom": "Belloc S",
@@ -1491,11 +1491,11 @@ var json_tresmils = [
     "completat": false
   },
   {
-    "nom": "La Forqueta SE",
+    "nom": "La moliera SE",
     "alt": 3004,
     "lat": "42.6307304",
     "lon": "0.4266166",
-    "completat": false
+    "completat": true
   },
   {
     "nom": "Robiñera",
