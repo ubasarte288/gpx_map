@@ -300,7 +300,7 @@ var json_sostres = [
         "alt": 516,
         "lat": 41.4225,
         "lon": 2.118611,
-        "completat": false,
+        "completat": true,
         "comarca": "Baix Empordà"
     },
     {
