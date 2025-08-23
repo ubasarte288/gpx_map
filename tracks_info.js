@@ -752,5 +752,35 @@ let tracks = [
         "tags": [
             "Tipus-Caminada"
         ]
+    },
+    {
+        "file": "tracks/EH_dia_1.gpx",
+        "tags": [
+            "Tipus-Caminada"
+        ]
+    ,
+    {
+        "file": "tracks/EH_dia_2.gpx",
+        "tags": [
+            "Tipus-Caminada"
+        ]
+    },
+    {
+        "file": "tracks/Beasain.gpx",
+        "tags": [
+            "Tipus-Caminada"
+        ]
+    },
+    {
+        "file": "tracks/Pasturant_per_EH.gpx",
+        "tags": [
+            "Tipus-Caminada"
+        ]
+    },
+    {
+        "file": "tracks/Running_per_Nafarroa.gpx",
+        "tags": [
+            "Tipus-Caminada"
+        ]
     }
 ];
