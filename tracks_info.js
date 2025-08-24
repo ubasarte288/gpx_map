@@ -758,7 +758,7 @@ let tracks = [
         "tags": [
             "Tipus-Caminada"
         ]
-    ,
+    },
     {
         "file": "tracks/EH_dia_2.gpx",
         "tags": [
