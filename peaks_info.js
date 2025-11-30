@@ -3521,7 +3521,7 @@ var json_peaks = [
     {
         "nom": "Sant Martí Xic (Castell de Voltregà)",
         "alt": 859,
-        "essencial": false,
+        "essencial": true,
         "lat": 42.010248,
         "lon": 2.206427,
         "url": "https://www.feec.cat/activitats/100-cims/cim/sant-marti-xic-castell-de-voltrega/",
