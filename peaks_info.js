@@ -3521,11 +3521,11 @@ var json_peaks = [
     {
         "nom": "Sant Martí Xic (Castell de Voltregà)",
         "alt": 859,
-        "essencial": true,
+        "essencial": false,
         "lat": 42.010248,
         "lon": 2.206427,
         "url": "https://www.feec.cat/activitats/100-cims/cim/sant-marti-xic-castell-de-voltrega/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Sant Miquel de Montclar",
