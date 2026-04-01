@@ -782,5 +782,11 @@ let tracks = [
         "tags": [
             "Tipus-Caminada"
         ]
+    },
+    {
+        "file": "tracks/Pic_del_Vent_.gpx",
+        "tags": [
+            "Tipus-Caminada"
+        ]
     }
 ];
