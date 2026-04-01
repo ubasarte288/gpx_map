@@ -780,7 +780,7 @@ var json_peaks = [
         "lat": 41.8707878226,
         "lon": 2.32093889931,
         "url": "https://www.feec.cat/activitats/100-cims/cim/lenclusa/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "L'Espina",
@@ -2139,7 +2139,7 @@ var json_peaks = [
         "lat": 41.6553025564,
         "lon": 2.12829694974,
         "url": "https://www.feec.cat/activitats/100-cims/cim/pic-del-vent/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Pic dels Moros",
@@ -2760,7 +2760,7 @@ var json_peaks = [
         "lat": 41.959633,
         "lon": 2.376163,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-del-far/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Puig del Pam",
