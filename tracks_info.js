@@ -788,5 +788,11 @@ let tracks = [
         "tags": [
             "Tipus-Caminada"
         ]
+    },
+    {
+        "file": "tracks/Puig_del_Far_.gpx",
+        "tags": [
+            "Tipus-Caminada"
+        ]
     }
 ];
