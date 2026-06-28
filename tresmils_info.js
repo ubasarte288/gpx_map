@@ -235,14 +235,14 @@ var json_tresmils = [
     "alt": 3207,
     "lat": "42.6185204",
     "lon": "0.6705522",
-    "completat": false
+    "completat": truee
   },
   {
     "nom": "Russell SE",
     "alt": 3205,
     "lat": "42.617412461731",
     "lon": "0.67192554473877",
-    "completat": false
+    "completat": true
   },
   {
     "nom": "Punta Chausenque",
@@ -823,7 +823,7 @@ var json_tresmils = [
     "alt": 3067,
     "lat": "42.5940416",
     "lon": "0.6530895",
-    "completat": false
+    "completat": true
   },
   {
     "nom": "Pico Spijeoles",
@@ -1110,7 +1110,7 @@ var json_tresmils = [
     "alt": 3034,
     "lat": "42.6165797",
     "lon": "0.6770269",
-    "completat": false
+    "completat": true
   },
   {
     "nom": "Aguja de Arnales",
