@@ -235,7 +235,7 @@ var json_tresmils = [
     "alt": 3207,
     "lat": "42.6185204",
     "lon": "0.6705522",
-    "completat": truee
+    "completat": true
   },
   {
     "nom": "Russell SE",
