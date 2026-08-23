@@ -3777,7 +3777,7 @@ var json_peaks = [
         "lat": 42.1677248606,
         "lon": 1.91070593443,
         "url": "https://www.feec.cat/activitats/100-cims/cim/sobrepuny/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Taga",
