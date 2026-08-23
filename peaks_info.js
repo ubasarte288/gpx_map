@@ -3813,7 +3813,7 @@ var json_peaks = [
         "lat": 41.6112068212,
         "lon": 1.76328314465,
         "url": "https://www.feec.cat/activitats/100-cims/cim/torre-alta-castell-ferran/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Torre d'Eina",
