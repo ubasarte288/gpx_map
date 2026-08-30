@@ -126,6 +126,12 @@ let tracks = [
         ]
     },
     {
+        "file": "tracks/tour_canigo.gpx",
+        "tags": [
+            "Tipus-Travessa"
+        ]
+    },
+    {
         "file": "tracks/volta-a-montserrat-21-07-24.gpx",
         "tags": [
             "Tipus-Caminada"
