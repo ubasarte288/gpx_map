@@ -123,7 +123,7 @@ var json_peaks = [
         "lat": 42.518901928,
         "lon": 2.45655964191,
         "url": "https://www.feec.cat/activitats/100-cims/cim/canigo/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Cap de Boumort",
@@ -2535,7 +2535,7 @@ var json_peaks = [
         "lat": 42.5146828414,
         "lon": 2.55355631584,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-lestella/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Puig de l'Àliga",
@@ -2580,7 +2580,7 @@ var json_peaks = [
         "lat": 42.454611,
         "lon": 2.396931,
         "url": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-collada-verda/",
-        "completat": false
+        "completat": true
     },
     {
         "nom": "Puig de la Cometa",
